@@ -1,7 +1,7 @@
 
-<img src="https://github.com/noel-jose/noel-jose/blob/master/grab-landingpage.gif">
+<img src="https://github.com/noel-jose/noel-jose/blob/main/grab-landingpage.gif">
 
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/noel-jose/noel-jose/blob/master/gifs/Hi.gif" width="30px"> </h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/noel-jose/noel-jose/blob/main/gifs/Hi.gif" width="30px"> </h2>
 
 <div align="center" width="50">
 
@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/static/v1?label=Website&message=noel-jose.github.io&color=%230076D6&style=flat-square&logo=internet-explorer&logoColor=%230076D6" alt="website"/>
 </a>
 <a href="https://github.com/noel-jose/" target="_blank">
-<img src="https://img.shields.io/badge/Projects-72-yellow?&style=flat-square" alt="Projects"/>
+<img src="https://img.shields.io/badge/Projects-7-yellow?&style=flat-square" alt="Projects"/>
 </a>
 <br>
 
