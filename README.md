@@ -31,8 +31,8 @@ or **[email](mailto:noeljosetp@protonmail.com)** me.
 Happy Coding! 💪🏽 <br>
 
 
-<img src="https://github-readme-stats.vercel.app/api?noel-jose={noel-jose}&theme=blue-green" alt="Noel Jose's Github Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?noel-jose={noel-jose}&theme=blue-green" alt="Noel Jose's Most used languages">
+<img src="https://github-readme-stats.vercel.app/api?username=noel-jose&theme=blue-green" alt="Noel Jose's Github Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noel-jose&theme=blue-green" alt="Noel Jose's Most used languages">
 
 
 
