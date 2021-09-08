@@ -29,12 +29,12 @@ Happy Coding! 💪🏽 <br>
 
 <div align="center">
 <img  height = "160" src="https://github-readme-stats.vercel.app/api?username=noel-jose&show_icons=true&hide_border=true&theme=dark&count_private=true" alt="Noel Jose's Github Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noel-jose&show_icons=true&hide_border=true&theme=dark&count_private=true" alt="Noel Jose's Most used languages">
+<img height = "160" width = "200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noel-jose&show_icons=true&hide_border=true&theme=dark&count_private=true" alt="Noel Jose's Most used languages">
 </div>
 
 
 
-<h2><strong>Languages and Tools that I use</strong></h2>  <br>
+<h2><strong>Languages and Tools that I use</strong></h2> 
 
 <code><img height="30" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></code>
@@ -53,7 +53,7 @@ Happy Coding! 💪🏽 <br>
 </div>
 <h2><strong>Just for fun:</strong></h2>
 
-- 🔭 I’m currently working on: Fullstack development (Next JS, React) and DS Algo
+- 🔭 I’m currently working on: Fullstack development (Next JS, React)
 - 🌱 I’m currently learning: Datastructure and algorithms
 - 👯 I’m looking to collaborate on: NextJS and React Projects
 - 💬 Ask me about: Code, food and life
