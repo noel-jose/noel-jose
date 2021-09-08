@@ -3,11 +3,7 @@
 
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/noel-jose/noel-jose/blob/main/gifs/Hi.gif" width="30px"> </h2>
 
-<div align="center" width="50">
 
-
-
-</div>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=noel-jose.noel-jose)
 <a href="https://www.linkedin.com/in/noel-jose-t-p-97527618b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -31,9 +27,10 @@ or **[email](mailto:noeljosetp@protonmail.com)** me.
 Happy Coding! 💪🏽 <br>
 
 
+<div style = "display:flex">
 <img src="https://github-readme-stats.vercel.app/api?username=noel-jose&theme=blue-green" alt="Noel Jose's Github Stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noel-jose&theme=blue-green" alt="Noel Jose's Most used languages">
-
+</div>
 
 
 
