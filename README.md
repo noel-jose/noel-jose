@@ -29,7 +29,7 @@ Happy Coding! 💪🏽 <br>
 
 <div align="center">
 <img  height = "160" src="https://github-readme-stats.vercel.app/api?username=noel-jose&show_icons=true&hide_border=true&theme=dark&count_private=true" alt="Noel Jose's Github Stats">
-<img height = "160" width = "200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noel-jose&show_icons=true&hide_border=true&theme=dark&count_private=true" alt="Noel Jose's Most used languages">
+<img height = "160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noel-jose&hide=assembly&layout=compact&theme=dark" alt="Noel Jose's Most used languages">
 </div>
 
 
