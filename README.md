@@ -28,7 +28,7 @@ Happy Coding! 💪🏽 <br>
 
 
 <div style = "display:flex">
-<img src="https://github-readme-stats.vercel.app/api?username=noel-jose&theme=blue-green" alt="Noel Jose's Github Stats">
+<img  height = "160" src="https://github-readme-stats.vercel.app/api?username=noel-jose&theme=blue-green" alt="Noel Jose's Github Stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noel-jose&theme=blue-green" alt="Noel Jose's Most used languages">
 </div>
 
