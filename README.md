@@ -20,7 +20,7 @@ You have finally discovered my Github profile. 👋
 
 
 I've done a ton of **[projects](https://github.com/noel-jose/)** with various technologies, 
-View my **[resume]()**, 
+View my **[resume](https://drive.google.com/file/d/16lV3aMzsbS80rT7zpi0J7ptlgYVd6P4r/view)**, 
 Ask me anything **[here](https://github.com/noel-jose/noel-jose/issues/new)**, 
 or **[email](mailto:noeljosetp@protonmail.com)** me. 
 <br>
